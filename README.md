@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fizzy-07
 - 👀 I’m new to coding I love learning new things my interest are music, Drawing,volleyball 
-- 🌱 I’m currently learning HTML,Python,JAVA
-- 💞️ I’m looking to imrpove on my coding  
+- 🌱 I’m currently learning C+
+- 💞️ I’m looking to improve on my coding  
 - 📫 How to reach me ...
 
 <!---
